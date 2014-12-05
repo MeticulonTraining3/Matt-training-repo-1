@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>ec092be2-125b-4d63-8f81-1ea97b81cd25</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Tester2.txt</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\Snirt\Matt-training-repo-1</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>9a4a30a1-d2a0-42c0-b875-bcc87820f4ef</guid>
+  </Tags>
+</FolderEntryTags>
